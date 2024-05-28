@@ -1,3 +1,3 @@
 # ¡Hola, soy [Terror Aterrador]!
 
-![image](https://github.com/TerrorAterrador/TerrorAterrador/assets/128630899/448c63eb-e15b-4929-80a2-9bfa3d56e77b)
+![Black And White Modern Brush Font Logo](https://github.com/TerrorAterrador/TerrorAterrador/assets/128630899/d792aaa6-4e03-48b7-8689-75d74c58c5f7)
