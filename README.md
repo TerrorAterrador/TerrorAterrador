@@ -1,2 +1,2 @@
 # ¡Hola, soy [Terror Aterrador]!
-![alt text](image.png)
+<span style="color:blue">TerrorAterrador</span>.
